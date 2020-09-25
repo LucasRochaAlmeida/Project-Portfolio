@@ -1,0 +1,80 @@
+body{
+    background-image: url(img2.jpg);
+    background-blend-mode: overlay;
+    background-color: rgb(51, 51, 51);
+    color: rgb(209, 207, 203);
+    background-position: bottom;
+    background-attachment: fixed;
+}
+header{
+    text-align: center;
+    padding: 30px;
+}
+h1{
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+}
+#nome{
+    font-size: 30px;
+}
+#endereco{
+    font-size: 20px;
+    padding-top: 10px;
+}
+main{
+    padding: 40px;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.descricao{
+    font-size: 20px;
+    margin: 20px 0;
+}
+#div-formacao{
+    margin-top: 70px;
+}
+h3{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-left: 60px;
+}
+.ul-formacao{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    font-size: 17px;
+}
+.li-formacaoLista:before{
+    content: "✧";
+}
+#ul-habilidades{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.listaHabilidades{
+    display: inline-block;
+    text-align: center;
+    width: 10%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 15px 10px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+.listaHabilidades:hover{
+    border-color: rgb(39, 211, 105);
+}
+.link{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10px;
+}
