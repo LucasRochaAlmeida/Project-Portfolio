@@ -73,6 +73,16 @@ h3{
 .listaHabilidades:hover{
     border-color: rgb(39, 211, 105);
 }
+
+.img-projetos{
+    text-align: center;
+}
+.img{
+    width: 500px;
+    height: 250px;
+}
+
+
 .link{
     text-align: center;
     font-size: 22px;
