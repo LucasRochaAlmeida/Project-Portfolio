@@ -1,5 +1,7 @@
-.img:hover{
-    transform: scale(1.5);
+.img:active{
+    transform: scale(1.8);
     transition: 1s;
-    cursor: pointer;
+}
+.img:hover{
+    cursor: zoom-in;
 }
