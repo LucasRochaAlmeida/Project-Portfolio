@@ -7,10 +7,21 @@ body{
     background-attachment: fixed;
 }
 
-.img-projetos{
-    text-align: center;
-}
 .img{
     width: 500px;
     height: 250px;
+}
+
+main{
+    margin: 90px 0;
+    text-align: center;
+}
+
+#proj-happy{
+    padding-bottom: 40px;
+}
+
+h1{
+    font-size: 23px;
+    font-weight: bolder;
 }
