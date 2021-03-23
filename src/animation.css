@@ -1,0 +1,7 @@
+.img:active{
+    transform: scale(1.8);
+    transition: 1s;
+}
+.img:hover{
+    cursor: zoom-in;
+}
